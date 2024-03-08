@@ -1,0 +1,4 @@
+# old client config, do not redistribute
+server = irc.YOURDOMAIN.tld
+port = 6697
+channel = #collective
