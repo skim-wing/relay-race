@@ -1,1 +1,2 @@
 - fix css spacing on mobile at some point
+- maybe rename archive/ to data/ later
