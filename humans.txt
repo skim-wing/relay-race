@@ -1,0 +1,12 @@
+/* TEAM */
+operator: unknown
+maintainer: unknown
+last touched by: {{OLD_NICKNAME}}
+
+/* SITE */
+standards: none
+components: static passthrough, no build step
+software: none
+
+/* THANKS */
+to whoever still has the old client configs.
